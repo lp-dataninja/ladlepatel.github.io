@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ladle Patel
+bio:  Data Scientist | Machine Learning Engineer | Deep Learning Engineer | Big Data Engineer | Speaker
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology, data and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://lp-dataninja.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,23 +35,23 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/ladlepatel
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/ladlepatel/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/lp-dataninja
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: https://medium.com/@LadlePatel
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ladlepatelr@gmail.com
 
 authors:
     johndoe:
