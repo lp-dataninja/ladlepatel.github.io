@@ -3,9 +3,9 @@ title: "APACHE SPARK INSTALLATION ON UBUNTU"
 layout: post
 date: 2018-10-30 22:48
 tag:
-- markdown
-- components
-- extra
+- apache
+- installation
+- bigdata
 category: blog
 author: Ladle Patel
 description: How do you Install Apache Spark on Ubuntu OS
