@@ -5,7 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Ladle Patel is a Data Scientist at Genpact, where he works on Scalable Machine Learning and Deep Learning Models. Prior to joining Genpact in July 2016, he worked at TCS labs and Thomson Reuters, where he worked on Python, Machine Learning, Hadoop, Spark & Java/J2EE.
-Ladle has over 7 years of IT experience with the last 4 years focused on large scale data science & engineering.In his free time, Ladle contributes to local data science meetup groups and Python community.</p>
+Ladle has over 7 years of IT experience with the last 4 years focused on large scale data science & engineering. 
+In his free time, Ladle contributes to local data science meetup groups and Python community.</p>
 
 <h2>Skills</h2>
 
