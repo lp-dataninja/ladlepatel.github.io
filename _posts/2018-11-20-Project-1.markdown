@@ -10,4 +10,4 @@ how to handle dependencies on other modules and packages;
 how to structure ETL code in such a way that it can be easily tested and debugged; and,
 what constitutes a 'meaningful' test for an ETL job.
 
-Find my notebook on my GitHub repository here: https://github.com/lp-dataninja/pyspark-example-project 
+Find my notebook on my GitHub repository here: <https://github.com/lp-dataninja/pyspark-example-project>
