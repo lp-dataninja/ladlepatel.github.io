@@ -1,6 +1,6 @@
 ---
 title: "Learning Python | Getting Started"
-layout: Projects
+layout: page
 date: 2018-11-20 22:44
 tag:
 - python
