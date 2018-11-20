@@ -1,6 +1,6 @@
 ---
-layout: page
-title: PySpark Example Tutorial
+title: "PySpark Example Project"
+layout: post
 date: 2018-11-20 22:48
 tag:
 - apache
