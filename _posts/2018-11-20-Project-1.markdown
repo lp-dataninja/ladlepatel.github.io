@@ -1,13 +1,6 @@
 ---
-title: PySpark 
 layout: page
-date: 2018-11-20 22:44
-tag:
-- python
-- programming
-category: blog
-author: Ladle Patel
-description: Markdown summary with different options
+title: Projects
 ---
 
 This document is designed to be read in parallel with the code in the pyspark-template-project repository. Together, these constitute what we consider to be a 'best practices' approach to writing ETL jobs using Apache Spark and its Python ('PySpark') APIs. This project addresses the following topics:
