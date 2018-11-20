@@ -15,6 +15,9 @@ In his free time, Ladle contributes to local data science meetup groups and Pyth
 	<li>Deep Learning</li>
 	<li>Apache Spark</li>
 	<li>Python</li>
+	<li>Pandas</li>
+	<li>Sklearn</li>
+	<li>TensorFlow</li>
 	<li>Scala</li>
 	<li>Java</li>
 	<li>AWS</li>
