@@ -6,7 +6,7 @@ tag:
 - apache
 - installation
 - bigdata
-category: projects
+category: blog
 author: Ladle Patel
 description: PySpark Tutorial
 ---
