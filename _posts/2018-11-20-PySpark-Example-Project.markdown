@@ -1,5 +1,5 @@
 ---
-title: "PySpark Example Project"
+title: "PySpark | Project"
 layout: post
 date: 2018-11-20 22:48
 tag:
