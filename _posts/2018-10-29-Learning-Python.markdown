@@ -1,5 +1,5 @@
 ---
-title: "Learning Python | Getting Started"
+title: "Learning Python - Getting Started | Blog"
 layout: post
 date: 2018-10-29 22:44
 tag:
