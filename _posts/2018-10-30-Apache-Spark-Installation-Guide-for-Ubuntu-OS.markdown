@@ -1,5 +1,5 @@
 ---
-title: "APACHE SPARK INSTALLATION ON UBUNTU"
+title: "Apache Spark Installation on Ubuntu | Blog"
 layout: post
 date: 2018-10-30 22:48
 tag:
